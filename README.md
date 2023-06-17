@@ -1,5 +1,5 @@
 # random-walks
-##Random walks in python
+## Random walks in python
 Random walk is a path that does not have a clear
 direction, but is determined by a series of completely random solutions. Imagine that
 an ant has gone mad and takes each new step in a random direction; its path
